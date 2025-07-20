@@ -1,0 +1,2 @@
+# templateLandingPages
+Template for LandingPages
