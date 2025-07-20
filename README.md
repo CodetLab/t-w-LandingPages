@@ -11,3 +11,7 @@ WebApp: Aplicación funcional (tipo Trello, Notion).
 Foro / Comunidad: Interacción de usuarios (Reddit, StackOverflow).
 Educativa / eLearning: Cursos y aprendizaje (Coursera, Platzi).
 Dashboard / Admin Panel: Visualización de datos y control interno.
+
+ejemplos 
+
+https://www.behance.net/gallery/72793957/10-Examples-of-Amazing-Landing-Pages
